@@ -1,0 +1,6 @@
+[ 2024-11-21 16:10:51,956 ] 1038 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+[ 2024-11-21 16:10:51,969 ] 107 dagshub - INFO - Accessing as aadhil.imam
+[ 2024-11-21 16:10:53,430 ] 1038 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/repos/aadhil.imam/MLops-ETL-Network-Project "HTTP/1.1 200 OK"
+[ 2024-11-21 16:10:57,513 ] 1038 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+[ 2024-11-21 16:10:57,517 ] 107 dagshub - INFO - Initialized MLflow to track repo "aadhil.imam/MLops-ETL-Network-Project"
+[ 2024-11-21 16:10:57,519 ] 107 dagshub - INFO - Repository aadhil.imam/MLops-ETL-Network-Project initialized!

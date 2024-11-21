@@ -16,3 +16,13 @@ This setup serves as a scalable, reliable, and repeatable framework for deployin
 ## Project Diagram
 
 ![diagram](https://github.com/aadhil96/MLops-ETL-Network-Project/blob/7eed79528c3a5cb4bf2ec68292ea9730eb57d52a/main%20diagram.jpg)
+
+## MLFLow
+
+![screen1](https://github.com/aadhil96/MLops-ETL-Network-Project/blob/6d0b39495368bddd2d6ecbbb6514cbf9dab224c2/mlflow.JPG)
+
+![screen2](https://github.com/aadhil96/MLops-ETL-Network-Project/blob/6d0b39495368bddd2d6ecbbb6514cbf9dab224c2/mlflow2.JPG)
+
+# Fast API 
+![fastapi](https://github.com/aadhil96/MLops-ETL-Network-Project/blob/6d0b39495368bddd2d6ecbbb6514cbf9dab224c2/fastapi.JPG)
+

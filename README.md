@@ -1,1 +1,1 @@
-# End to End MLops Network Security Classfication With FastAPI , Docker , MLFlow , AWS EC2 , AWS ECR
+# End to End MLops Network Security Classfication With FastAPI,Docker,MLFlow,Github Actions,AWS EC2,AWS ECR
